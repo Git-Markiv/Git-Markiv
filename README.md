@@ -1,7 +1,7 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Vikram%20Mali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Undergrad%20%E2%80%A2%20AI%20%26%20Data%20Enthusiast%20%E2%80%A2%20Python%20Developer&descSize=18&descAlignY=60" alt="header" width="100%"/>
+<img src="https://raw.githubusercontent.com/Git-Markiv/Git-Markiv/main/banner.svg" alt="Vikram Mali banner" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Vikram+Mali;Building+AI+%26+Computer+Vision+projects;Turning+data+into+useful+insights;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
@@ -134,16 +134,6 @@ class Vikram:
 
 ---
 
-## 🎓 Education
-
-| Level | Institution | Year | Score |
-|---|---|---|---|
-| **B.Tech – Computer Science Engineering** | DRK College of Engineering & Technology (JNTUH) | 2027 | 7.55 / 10 |
-| **Intermediate (12th)** | Sri Chaitanya Junior College | 2023 | 88% |
-| **SSC (10th)** | Sharada Vidya Mandir High School | 2021 | 100% |
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -151,8 +141,6 @@ class Vikram:
 <img src="https://raw.githubusercontent.com/Git-Markiv/Git-Markiv/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 
 </div>
-
-<sub>💡 Needs the `snake.yml` GitHub Action — setup steps are in the chat.</sub>
 
 ---
 
@@ -168,6 +156,6 @@ class Vikram:
 
 *⭐ If you like my work, consider giving my repos a star — it keeps me motivated!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
 
 </div>
