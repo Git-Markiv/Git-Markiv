@@ -9,7 +9,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Git-Markiv&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 ![Location](https://img.shields.io/badge/Hyderabad-India-orange?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Status](https://img.shields.io/badge/Open%20to-Internships%20%26%20Entry--Level%20Roles-brightgreen?style=for-the-badge)
 
@@ -24,7 +23,7 @@ class Vikram:
     def __init__(self):
         self.role      = "B.Tech CSE Student (2027)"
         self.college   = "DRK College of Engineering & Technology, Hyderabad"
-        self.focus     = ["AI / Machine Learning", "Computer Vision", "Data Analysis"]
+        self.focus     = ["AI / Machine Learning", "Data Analysis"]
         self.language  = "Python 🐍"
         self.learning  = ["Deep Learning", "Cloud (AWS & Azure)", "Generative AI"]
         self.goal      = "Entry-level role where I can solve real-world problems with tech"
